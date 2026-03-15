@@ -1,8 +1,8 @@
 # Hey there! 👋
 
-## My name is Danilo Peixoto and I'm a Front-end Developer from Goiás, Brazil.
+## My name is Danilo Peixoto and I'm a Full-Stack Developer from Goiás, Brazil.
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHy7GEZaEKRtA/profile-displayphoto-shrink_800_800/B4DZVhgYqBGcAg-/0/1741097635600?e=1749081600&v=beta&t=TCEs-Si3XRw8vHDU65wUfMC_x8AuxvmAsUIl0tlip7Q" alt="Profile Photo" width="120" height="120" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/193015267?v=4" alt="Profile Photo" width="120" height="120" style="border-radius: 50%;">
 
 ### 🛠️ Tech Stack
 

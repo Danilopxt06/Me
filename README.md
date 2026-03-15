@@ -2,7 +2,12 @@
 
 ## My name is Danilo Peixoto and I'm a Full-Stack Developer from Goiás, Brazil.
 
-<img src="https://avatars.githubusercontent.com/u/193015267?v=4" alt="Profile Photo" width="120" height="120" style="border-radius: 50%;">
+<img 
+src="https://avatars.githubusercontent.com/u/193015267?v=4" 
+alt="Profile Photo" 
+width="120" 
+height="120"
+style="border-radius: 50%; border: 4px solid #4CAF50; padding: 3px;">
 
 ### 🛠️ Tech Stack
 
